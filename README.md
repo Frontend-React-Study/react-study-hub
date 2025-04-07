@@ -11,9 +11,9 @@
 
 | 주차 | 주제             | 실습 레포 링크               |
 |------|------------------|------------------------------|
-| 1-2주차 | topic1    | [topic1](https://github.com/Frontend-React-Study/topic1) |
-| 3-4주차 | topic2    | [topic2](https://github.com/Front-React-Study/topic2) |
-| 5-6주차 | topic3    | [topic3](https://github.com/Front-React-Study/topic3) |
+| 1-2주차 | Counter    | [topic1](https://github.com/Frontend-React-Study/counter) |
+| 3-4주차 | Todolist    | [topic2](https://github.com/Front-React-Study/todolist) |
+| 5-6주차 | Diary    | [topic3](https://github.com/Front-React-Study/diary) |
 
 ## 폴더 구조
 
